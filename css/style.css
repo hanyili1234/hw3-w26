@@ -105,6 +105,7 @@ nav a:focus {
 /* Step 8: Write the selector/rule property to style the .text-block class. */
 .text-block {
     display: grid;
+    place-items: center;
     align-self:center;
     justify-self: center;
     text-align: center;
